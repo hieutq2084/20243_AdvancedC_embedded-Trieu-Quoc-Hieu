@@ -1,1 +1,69 @@
+# 1. Compiler Process - Macro 
 
+# 2. STDARG: ASSERT
+int func(int a, int b)
+
+# 3. Bit mask
+
+# 4. Pointer 
+
+1 mini project
+
+# 5. Storage classes
+- static
+- volatile
+- extern
+- register
+
+# 6. Goto - Setjmp
+
+while(1)
+{
+    break;
+}
+
+// code
+
+# 7. Struct union
+
+# 8. Memory layout
+
+- 
+
+# 9. Stack Queue Linked list Binary Search Tree
+
+mini project
+
+# 10. Pthread - 
+
+_- Makefile:_ 
+
+
+- stm32f103, st-link, led, res, capacitor
+- Bare-metal:  
+
+- Standard library
+
+- GPIO
+- Interrupt
+- Timer
+- Communication Protocol (I2C, SPI, UART)
+- ADC, DMA
+
+
+
+_- Bootloader, vector table....._
+
+_CAN, LIN_
+
+C C++ modern
+
+Lambda concurrency
+
+- Workflow
+- User guide
+
+
+_KeilC_
+
+-
