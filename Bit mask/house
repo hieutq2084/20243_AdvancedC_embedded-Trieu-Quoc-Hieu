@@ -1,0 +1,32 @@
+Một hệ thống đèn thông minh có 8 tính năng (option), mỗi option được bật/tắt bằng 1 bit trong một biến unsigned char settings.
+
+Các option được quy định như sau:
+
+Bit	Option
+0	Đèn phòng khách
+1	Đèn phòng ngủ
+2	Đèn nhà bếp
+3	Đèn nhà tắm
+4	Quạt trần
+5	Đèn ban công
+6	Đèn sân vườn
+7	Hệ thống báo động
+Yêu cầu
+
+Định nghĩa các macro cho từng option (dùng (1 << n)).
+
+Viết hàm void turnOn(unsigned char *settings, unsigned char option) để bật 1 option.
+
+Viết hàm void turnOff(unsigned char *settings, unsigned char option) để tắt 1 option.
+
+Viết hàm int isOn(unsigned char settings, unsigned char option) để kiểm tra option có đang bật không.
+
+Viết chương trình thử nghiệm:
+
+Bật đèn phòng khách và đèn bếp.
+
+Kiểm tra trạng thái đèn bếp.
+
+Tắt đèn phòng khách.
+
+In ra kết quả cuối cùng ở dạng nhị phân (0bxxxxxxxx).
